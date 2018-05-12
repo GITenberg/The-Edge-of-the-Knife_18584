@@ -1,0 +1,34 @@
+_repo: The-Edge-of-the-Knife_18584
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: Part of this prolific author's popular Terra-Human Future History series,
+  the tale "The Edge of the Knife" takes place just prior to the devastating world
+  war that occurs in 1973, wiping out much of humanity and leading to the ascendance
+  of a new world order. The story focuses on a protagonist who is plagued by brief
+  glimpses of the future. Many fans regard this story as a thematic touchstone that
+  yokes together much of Piper's oeuvre.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Edge of the Knife
+url: http://www.gutenberg.org/ebooks/18584
